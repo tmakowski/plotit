@@ -4,4 +4,4 @@ A Shiny application created during home assignment at an Advanced R course at Fa
 
 The goal was to create an app which can visualize a `.csv` data with three different plot geometries (Bartchart, Heatmap, Scatterplot) with a dynamic variable selection. The variable selection is based on the uploaded files columns.
 
-[Try it yourself at shinyapps.io](https://makowskit.shinyapps.io/plotit/)
+[Try it yourself at shinyapps.io](https://tmakowski.shinyapps.io/plotit/)
